@@ -44,5 +44,8 @@ Essas são:
 
 #### EXEMPLO
 
-**ação do ator**|**reação do sistema**
-----------------|---------------------
+**número da UC**|**título da UC**|**o que ela faz**
+----------------|----------------|---------------
+UC1|Nome da UC1|Ação da UC1
+UC2|Nome da UC2|Ação da UC2
+UC3|Nome da UC3|Ação da UC3
