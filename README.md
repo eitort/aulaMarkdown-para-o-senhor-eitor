@@ -18,9 +18,9 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
 
 
-# **ENGENHARIA DE REQUISITOS** ![alt](https://media.tenor.com/q4842Jm1xv0AAAAM/joinha-yes.gif)
+# **ENGENHARIA DE REQUISITOS** <img src="https://media.tenor.com/q4842Jm1xv0AAAAM/joinha-yes.gif" width="50px">
 
-## **O QUE É?**
+### O QUE É?
 
   A engenharia de requisitos é um processo que engloba todas as atividades que contribuem para a produção de um documento de requisitos e sua manutenção ao longo do tempo. O processo de engenharia de requisitos é composto por oito atividades de alto nível: Revisão do processo de requisitos.
 Essas são:
@@ -32,6 +32,7 @@ Essas são:
 * gestão
 * validação
 
-## **QUAL É O OBJETIVO?**
+### QUAL É O OBJETIVO?
+<img src="https://pa1.aminoapps.com/7570/e4ba52e6dccc4c8d8f876a727572994ec540c639r1-272-320_00.gif" width="80px">
+  Ultilixar técnicas e ferramentas para definir os requisitos básicos da gestçao do site em questão, deixando a produção mil vezes mais organizada, clara e ajudando a equide de produtores em sua atividade.
 
-  Usar técnicas e ferramentas para auxiliar na definição de requisitos (ajeitar isso)
