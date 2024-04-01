@@ -44,8 +44,10 @@ Essas são:
 
 #### EXEMPLO
 
-**número da UC**|**título da UC**|**o que ela faz**
+**Número da UC**|**Título da UC**|**O que ela faz**
 ----------------|----------------|---------------
 UC1|Nome da UC1|Ação da UC1
 UC2|Nome da UC2|Ação da UC2
 UC3|Nome da UC3|Ação da UC3
+
+[saiba mais](http://www.dsc.ufcg.edu.br/~jacques/cursos/apoo/html/plan/plan3.htm)
