@@ -36,3 +36,13 @@ Essas são:
 <img src="https://pa1.aminoapps.com/7570/e4ba52e6dccc4c8d8f876a727572994ec540c639r1-272-320_00.gif" width="80px">
   Ultilixar técnicas e ferramentas para definir os requisitos básicos da gestçao do site em questão, deixando a produção mil vezes mais organizada, clara e ajudando a equide de produtores em sua atividade.
 
+## USE CASE
+
+### O QUE É?
+
+  Use case é uma tabela que define como o sistema deve agir em relação a cada ação feita pelo ator.
+
+#### EXEMPLO
+
+**ação do ator**|**reação do sistema**
+----------------|---------------------
