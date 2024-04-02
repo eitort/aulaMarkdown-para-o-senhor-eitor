@@ -33,8 +33,9 @@ Essas são:
 * validação
 
 ### QUAL É O OBJETIVO?
-<img src="https://pa1.aminoapps.com/7570/e4ba52e6dccc4c8d8f876a727572994ec540c639r1-272-320_00.gif" width="80px">
   Ultilixar técnicas e ferramentas para definir os requisitos básicos da gestçao do site em questão, deixando a produção mil vezes mais organizada, clara e ajudando a equide de produtores em sua atividade.
+
+<img src="https://pa1.aminoapps.com/7570/e4ba52e6dccc4c8d8f876a727572994ec540c639r1-272-320_00.gif" width="80px">
 
 ## USE CASE
 
