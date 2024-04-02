@@ -20,6 +20,8 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 # **ENGENHARIA DE REQUISITOS** <img src="https://media.tenor.com/q4842Jm1xv0AAAAM/joinha-yes.gif" width="50px">
 
+<img src="https://colegioplanck.com.br/wp-content/uploads/2021/06/Colegio-Planck-Profissao-programador-o-que-faz-esse-profissional-tao-disputado-no-mercado-arte-Autores-Grupo-S2-Marketing-Freepik.jpg" width="500px">
+
 ### O QUE É?
 
   A engenharia de requisitos é um processo que engloba todas as atividades que contribuem para a produção de um documento de requisitos e sua manutenção ao longo do tempo. O processo de engenharia de requisitos é composto por oito atividades de alto nível: Revisão do processo de requisitos.
@@ -35,7 +37,7 @@ Essas são:
 ### QUAL É O OBJETIVO?
   Ultilixar técnicas e ferramentas para definir os requisitos básicos da gestçao do site em questão, deixando a produção mil vezes mais organizada, clara e ajudando a equide de produtores em sua atividade.
 
-<img src="https://pa1.aminoapps.com/7570/e4ba52e6dccc4c8d8f876a727572994ec540c639r1-272-320_00.gif" width="80px">
+<img src="https://pa1.aminoapps.com/7570/e4ba52e6dccc4c8d8f876a727572994ec540c639r1-272-320_00.gif" width="60px">
 
 ## USE CASE
 
@@ -43,12 +45,14 @@ Essas são:
 
   Use case é uma tabela que define como o sistema deve agir em relação a cada ação feita pelo ator.
 
-#### EXEMPLO
+#### EXEMPLOS
 
 **Número da UC**|**Título da UC**|**O que ela faz**
 ----------------|----------------|---------------
 UC1|Nome da UC1|Ação da UC1
 UC2|Nome da UC2|Ação da UC2
 UC3|Nome da UC3|Ação da UC3
+
+<img src="https://progridbb.wdfiles.com/local--files/engenhariadesoftware/DiagramaProcessoDeEngenhariaDeRequisitos.png" width="600px">
 
 [saiba mais](http://www.dsc.ufcg.edu.br/~jacques/cursos/apoo/html/plan/plan3.htm)
