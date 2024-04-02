@@ -56,3 +56,7 @@ UC3|Nome da UC3|Ação da UC3
 <img src="https://progridbb.wdfiles.com/local--files/engenhariadesoftware/DiagramaProcessoDeEngenhariaDeRequisitos.png" width="600px">
 
 [saiba mais](http://www.dsc.ufcg.edu.br/~jacques/cursos/apoo/html/plan/plan3.htm)
+
+<img src="https://i.pinimg.com/originals/80/c3/03/80c303488900a335990566ab43c61b51.gif" width="1000px">
+
+<img src="https://uploads.spiritfanfiction.com/historias/capas/202108/twillight-x-mordecai-can-we-pretend-22882280-250820211931.png" width="9999999999999999px">
